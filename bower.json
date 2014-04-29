@@ -1,5 +1,5 @@
 {
-  "name": "flot.tooltip",
+  "name": "flot.tooltip.pib",
   "version": "0.6.7",
   "main": "js/jquery.flot.tooltip.js",
   "ignore": [
